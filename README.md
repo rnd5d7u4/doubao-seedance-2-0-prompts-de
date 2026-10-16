@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [doubao-seedance-2-0-api-de](https://github.com/rnd5d7u4/doubao-seedance-2-0-api-de)
+- **Same model, other languages** — 9 more language builds: 中文 [doubao-seedance-2-0-api-cn](https://github.com/t7phf53f5hs/doubao-seedance-2-0-api-cn) · Español [doubao-seedance-2-0-api-es](https://github.com/jc3a6phjspf-3/doubao-seedance-2-0-api-es) · Français [doubao-seedance-2-0-api-fr](https://github.com/e3udvo/doubao-seedance-2-0-api-fr) · Relay/gateway [doubao-seedance-2-0-api-gateway](https://github.com/emw2cy1k/doubao-seedance-2-0-api-gateway) · Bahasa [doubao-seedance-2-0-api-id](https://github.com/scsa67y7x97nk/doubao-seedance-2-0-api-id) · 日本語 [doubao-seedance-2-0-api-ja](https://github.com/p5s5nph3/doubao-seedance-2-0-api-ja) · 한국어 [doubao-seedance-2-0-api-ko](https://github.com/uu8bu/doubao-seedance-2-0-api-ko) · Português [doubao-seedance-2-0-api-pt](https://github.com/b1l5hu8oqdj/doubao-seedance-2-0-api-pt) · Русский [doubao-seedance-2-0-api-ru](https://github.com/z6gquntrrfq/doubao-seedance-2-0-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [doubao-seedance-2-0](https://github.com/topics/doubao-seedance-2-0) · [doubao-seedance-2-0-api](https://github.com/topics/doubao-seedance-2-0-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
